@@ -1,0 +1,24 @@
+# Build artifacts
+*.o
+*.d
+*.a
+
+# Python scripts (helpers, not part of release)
+*.py
+__pycache__/
+
+# Backup files
+*.bak
+*.bak_*
+*.orig
+*~
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# OS
+Thumbs.db
+desktop.ini
