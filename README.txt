@@ -106,3 +106,7 @@ v1.2 (2026-05-07)
 
 v1.0 (initial)
   - fw 9.40 only.
+---------------------------------------------------------------------------------------
+If you like my work you can help me by supporting me via Ko-fi
+Arksama
+https://ko-fi.com/arksama27554
